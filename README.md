@@ -3,7 +3,7 @@ ipson is a combination of Groovy, Unbelievaboat, Dyno and Dank Memer. It has bui
 <h2> Commands </h2>
 <h3> Basic Moderation </h3>
 %ban <@user> <reason> - Bans a member from the server.
-%kick <@user> - Kicks a user from the server.
+%kick <@user> - Kicks a user from the server
 %mute <@user> - Mutes a user in the server.
 %unmute <@user> - Unmutes a user in the server.
 %invite - Generates the invite link for the bot.

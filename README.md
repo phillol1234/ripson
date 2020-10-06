@@ -45,4 +45,3 @@ ipson is a combination of Groov,y Unbelievaboat, Dyno and Dank Memer. You're mos
 <h2> Links </h2>
 <a href="https://discord.gg/YVhFg3F">-Support Server</a>
 <a href="https://discord.com/oauth2/authorize?client_id=738044495941337168&scope=bot&permissions=8">-Add Bot</a>
-<a href="coming.soon">-Bot Repository</a>

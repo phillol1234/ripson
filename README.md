@@ -1,5 +1,5 @@
-<h1> The best Discord Moderation bot </h1>
-ipson is a combination of Groov,y Unbelievaboat, Dyno and Dank Memer. You're most likely here because you need the invites or support server. Please scroll for the links.
+<h1> More than just a bot! </h1>
+ipson is a combination of Groovy, Unbelievaboat, Dyno and Dank Memer. It has built in Trivia, Meme Creator, etc. You're most likely here because you need the invites or support server. Please scroll for the links.
 <h2> Commands </h2>
 <h3> Basic Moderation </h3>
 %ban <@user> <reason> - Bans a member from the server.
